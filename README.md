@@ -28,7 +28,7 @@ developed using Ionic.
 
 stack: ***Ionic, React, Arduino***
 
-<a href="https://youtu.be/6iVXQYM4GPg" target="_blank">
+<a href="https://youtu.be/NTQIz3hWsak" target="_blank">
   <img height="350" src="https://user-images.githubusercontent.com/37028825/171403987-cf097c4e-5f7c-4eaf-8e32-ab204e08aa4c.jpeg"/>
 </a>
 
