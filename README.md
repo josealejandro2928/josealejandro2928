@@ -17,7 +17,7 @@ Also, it allows the choice of custom files not to be taken into account in the s
 stack: ***NodeJs, Electron, React***
 
 <a href="https://youtu.be/6iVXQYM4GPg" target="_blank">
-  <img height="350" src="https://user-images.githubusercontent.com/37028825/166125854-573fdbff-f9cc-4e2c-ac1f-dd7f22100f7a.png"/>
+  <img height="300" src="https://user-images.githubusercontent.com/37028825/166125854-573fdbff-f9cc-4e2c-ac1f-dd7f22100f7a.png"/>
 </a>
 
 
@@ -29,7 +29,7 @@ developed using Ionic.
 stack: ***Ionic, React, Arduino***
 
 <a href="https://youtu.be/NTQIz3hWsak" target="_blank">
-  <img height="350" src="https://user-images.githubusercontent.com/37028825/171403987-cf097c4e-5f7c-4eaf-8e32-ab204e08aa4c.jpeg"/>
+  <img height="300" src="https://user-images.githubusercontent.com/37028825/171403987-cf097c4e-5f7c-4eaf-8e32-ab204e08aa4c.jpeg"/>
 </a>
 
 #### NgpImagePicker ####
@@ -41,5 +41,5 @@ is now available for the first time an more
 stack: ***Angular, JavaScript***
 
 <a href="https://www.npmjs.com/package/ngp-image-picker" target="_blank">
-  <img height="350" src="https://user-images.githubusercontent.com/37028825/207925677-86fc4dc8-fee9-4761-b6e4-f75d353e55ae.png"/>
+  <img height="300" src="https://user-images.githubusercontent.com/37028825/207925677-86fc4dc8-fee9-4761-b6e4-f75d353e55ae.png"/>
 </a>
