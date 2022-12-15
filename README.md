@@ -1,12 +1,11 @@
 ## Hi, I'm Jose Alejandro Concepcion Alvarez ##
 ###  Software Engineer | Full Stack Developer | JavaScript | Python | Java ###
 
-I have a degree in Automation Engineering and am currently enrolled in a Ph.D. program in Computer Science. 
-I have five years of experience as a Software Engineer. The main programming languages I have skills in are JavaScript, Python, and Java. The majority of the projects where I worked on were related to Web and Mobile development. I have experience in both Frontend Development and Backend Development.
-As a student, I have researched in the robotics field, developing prototypes of wheeled mobile robots. 
-I have experience in Software Engineering tasks. I have worked with web applications, developing front and backend functionalities. 
-Using JavaScript technologies, I have created mobile applications for controlling robots and IoT sensor data. Also, 
-I have done some data science projects using Python libraries.
+I have a degree in Automation Engineering and am currently enrolled in a Ph.D. program in Computer Science. I have four years of experience as a Software Engineer. The main programming languages I am proficient in are JavaScript, Python, and Java. Most of the projects I have worked on were related to Web and Mobile development. I have experience in both Frontend Development and Backend Development. For user interface design and creation, the technologies with which I feel comfortable are Angular and React. On the backend side, I have experience developing API Rest using NodeJS with MySQL, PostgreSQL, and MongoDB. I have also developed serverless functions using amazon web services. I am a person passionate about technology. I am always studying and looking for new ways to improve my skills. I'm a fan of programming, and usually, in my free time, instead of using my social networks or watching series on Netflix; I solve algorithm and data structure problems on platforms like www.leetcode.com, www.hackerrank.com, and www.algoexpert.io.
+
+
+## These are the technologies I like to work with ##
+<img src="https://user-images.githubusercontent.com/37028825/207927393-da2c9ab2-4537-4032-a58b-c34b4c35654e.png" />
 
 ## Some links related to intresting projects ##
 
