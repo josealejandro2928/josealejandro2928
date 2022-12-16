@@ -3,8 +3,9 @@
 
 I have a degree in Automation Engineering and Mechatronics. I am a Full Stack Developer with four years of experience as a Software Developer. The main programming languages I am proficient in are JavaScript, Python, and Java. Most of the projects I have worked on were related to Web and Mobile development. I have experience in both Frontend and Backend Development. For the client side, I like using Angular, React, and Vue2. On the backend side, I have experience developing Rest API using NodeJS, Flask, and Django with MySQL, PostgreSQL, and MongoDB. I have also developed serverless functions using amazon web services. I am a person passionate about technology. I am always studying and looking for new ways to improve my skills. I'm a fan of programming, and usually, in my free time, instead of using my social networks or watching series on Netflix; I solve algorithm and data structure problems on platforms like www.leetcode.com, www.hackerrank.com, and www.algoexpert.io.
 
-👉🏻👉🏻 Here you can see my CV: <a href="https://github.com/josealejandro2928/josealejandro2928/files/10249130/CV.pdf">Jose_A_CV.pdf</a>
-
+👉🏻👉🏻 Here you can see my CV:  <a href="https://github.com/josealejandro2928/josealejandro2928/files/10249130/CV.pdf">Jose_A_CV.pdf</a>
+ 
+  
 ## These are the technologies I like to work with ##
 <img src="https://user-images.githubusercontent.com/37028825/207927393-da2c9ab2-4537-4032-a58b-c34b4c35654e.png" />
 
