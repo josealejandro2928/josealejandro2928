@@ -3,7 +3,7 @@
 
 I am a Full Stack Developer with a degree in Automation Engineering and Mechatronics and four years of experience as a software developer. My expertise lies in JavaScript, Python, and Java, and I have extensive experience in web and mobile development. My frontend development skills include Angular, React, and Vue2, while my backend skills include developing REST APIs using NodeJS, Flask, and Django, along with databases like MySQL, PostgreSQL, and MongoDB. I have also worked with serverless functions on Amazon Web Services. I am passionate about technology and always eager to learn more. I am always studying and looking for new ways to improve my skills. I'm a fan of programming, and usually, in my free time, I solve algorithm and data structure problems on platforms like www.leetcode.com, www.hackerrank.com, and www.algoexpert.io.
 
-👉🏻👉🏻 Here you can see my CV:  <a href="https://github.com/josealejandro2928/josealejandro2928/files/10249130/CV.pdf">Jose_A_CV.pdf</a>
+👉🏻👉🏻 Here you can see my CV:  <a href="https://drive.google.com/file/d/1nm1lnlzGS4ASNyswl6v_w2I5vr6zH-Hd/view?usp=sharing">Jose_A_CV.pdf</a>
  
   
 ## These are the technologies I like to work with ##
@@ -22,7 +22,7 @@ stack: ***NodeJs, Electron, React***
   <img height="300" src="https://user-images.githubusercontent.com/37028825/166125854-573fdbff-f9cc-4e2c-ac1f-dd7f22100f7a.png"/>
 </a>
 
-#### mini-express-server ####
+#### Mini-Express-Server ####
 A minimal web server implementation based on express architecture uses only built-in node modules like path, http, http2, and fs. The core class is AppServer, which creates an instance of Server calling createServer from node:http and can create a server that implements a http2.0 protocol using node:http2. It listens to incoming requests and, based on the request method (GET, POST, PUT, DELETE, PATCH, HEAD). If the method is not supported, the Server returns a 405 status code with a "Not allowed" response. The mini-express-server library beat the express library running benchmarking test using ab tool and autocanon. Saving in the worsts case (where the API had more than 1000 endpoints) 100 ms in time per request, 146 ms in the long request, having half of the time for completing the test and increasing the capacity of requests per second to 1300 more than express.
 
 stack: ***NodeJs,TypeScript, JavaScript***
